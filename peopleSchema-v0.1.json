@@ -1,0 +1,31 @@
+{
+    "type": "object",
+    "title": "people",
+    "description": "Schema of users as an analog to mixpanel",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "email":{
+        "type": "string"
+      },
+      "User Id": {
+          "type": "number"
+      },
+      "Organization Id": {
+          "type": "number"
+      },
+      "Account Id": {
+          "type": "number"
+      },
+      "Primary Username": {
+          "type": "string"
+      },
+      "Primary Domain": {
+          "type": "string"
+      },
+      "Free Plan User": {
+          "type": "string"
+      }
+    }
+  }
