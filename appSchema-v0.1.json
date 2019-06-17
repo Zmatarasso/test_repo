@@ -54,8 +54,11 @@
       "voicemailbox": {
           "type": "boolean"
       },
-    "Free Plan User": {
+      "Free Plan User": {
         "type": "string"
-    }
+      },
+      "session_load_id":{
+          "type": "string"
+      }
   }
 }
