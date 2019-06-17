@@ -22,37 +22,37 @@
           "type": "string"
       },
       "audio_call": {
-          "type": "boolean";
+          "type": "boolean"
       },
       "video_call": {
-          "type": "boolean";
+          "type": "boolean"
       },
       "audio_available": {
-          "type": "boolean";
+          "type": "boolean"
       },
       "video_available": {
-          "type": "boolean";
+          "type": "boolean"
       },
       "testing": {
-          "type": "boolean";
+          "type": "boolean"
       },
       "conference": {
-          "type": "boolean";
+          "type": "boolean"
       },
       "conference_size": {
-          "type": "number";
+          "type": "number"
       },
       "local_address": {
-          "type": "string";
+          "type": "string"
       },
       "remote_address": {
-          "type": "string";
+          "type": "string"
       },
       "ouid": {
-          "type": "string";
+          "type": "string"
       },
       "voicemailbox": {
-          "type": "boolean";
+          "type": "boolean"
       },
     "Free Plan User": {
         "type": "string"
