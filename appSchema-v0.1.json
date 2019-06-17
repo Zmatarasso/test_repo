@@ -21,8 +21,41 @@
       "Primary Domain": {
           "type": "string"
       },
-      "Free Plan User": {
-          "type": "string"
-      }
+      "audio_call": {
+          "type": "boolean";
+      },
+      "video_call": {
+          "type": "boolean";
+      },
+      "audio_available": {
+          "type": "boolean";
+      },
+      "video_available": {
+          "type": "boolean";
+      },
+      "testing": {
+          "type": "boolean";
+      },
+      "conference": {
+          "type": "boolean";
+      },
+      "conference_size": {
+          "type": "number";
+      },
+      "local_address": {
+          "type": "string";
+      },
+      "remote_address": {
+          "type": "string";
+      },
+      "ouid": {
+          "type": "string";
+      },
+      "voicemailbox": {
+          "type": "boolean";
+      },
+    "Free Plan User": {
+        "type": "string"
     }
   }
+}
