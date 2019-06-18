@@ -6,19 +6,19 @@
       "action": {
         "type": "string"
       },
-      "User Id": {
+      "user_id": {
         "type": "number"
       },
-      "Organization Id": {
+      "organization_id": {
         "type": "number"
       },
-      "Account Id": {
+      "account_id": {
           "type": "number"
       },
-      "Primary Username": {
+      "primary_username": {
           "type": "string"
       },
-      "Primary Domain": {
+      "primary_domain": {
           "type": "string"
       },
       "audio_call": {
@@ -54,7 +54,7 @@
       "voicemailbox": {
           "type": "boolean"
       },
-      "Free Plan User": {
+      "free_plan_user": {
         "type": "string"
       },
       "session_load_id":{
