@@ -3,6 +3,9 @@
     "title": "app",
     "description": "Schema of events that are triggered from the OnSIP App on various platforms",
     "properties": {
+      "type": {
+        "type": "string"
+      },
       "action": {
         "type": "string"
       },
